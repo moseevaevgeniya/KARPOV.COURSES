@@ -12,11 +12,11 @@
 
 ### 2. Вот что получилось:  
 
-Лента новостей-основное  
-Лента новостей-оперативные данные часть1  
-Лента новостей-оперативные данные часть2  
-Лента новостей-оперативные данные часть3  
-
+[Лента новостей-основное](https://drive.google.com/file/d/1PoE2nkvkYVP4r2zef8Wt7hiFpxMbmHRD/view?usp=sharing)  
+[Лента новостей-оперативные данные часть1](https://drive.google.com/file/d/1Fbps50fGo2jFlM8jLOdhIL4bY2TuZUg4/view?usp=sharing)  
+[Лента новостей-оперативные данные часть2](https://drive.google.com/file/d/1yFVKywg20dGk91lOeAvEXW2h_Qw_fM5w/view?usp=sharing)  
+[Лента новостей-оперативные данные часть3](https://drive.google.com/file/d/1H8_pImJ7xt-mjnd4bFt9fAyKjwE192Aq/view?usp=sharing)  
+[Лента новостей и сообщений](https://drive.google.com/file/d/1Z6byDwdTGI_g7FOfyfRD4zXlS9bk_OcN/view?usp=sharing)
 
 ### 3. Теги  
 
