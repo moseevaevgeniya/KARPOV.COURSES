@@ -19,7 +19,7 @@
 
 #### Вот что у нас получилось:
 
-[Лента новостей-всплеск активной аудитории](https://github.com/moseevaevgeniya/KARPOV.COURSES/blob/fb2c5e8be21733dd4fc72b2fee959ad6641a5e5a/2.%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9-%D0%B2%D1%81%D0%BF%D0%BB%D0%B5%D1%81%D0%BA-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9-%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-2023-03-01T19-24-12.756Z.jpg)  
+[Лента новостей-всплеск активной аудитории](https://github.com/moseevaevgeniya/KARPOV.COURSES/blob/fb2c5e8be21733dd4fc72b2fee959ad6641a5e5a/2.%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9-%D0%B2%D1%81%D0%BF%D0%BB%D0%B5%D1%81%D0%BA-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9-%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-2023-03-01T19-24-12.756Z.jpg)  [Superset](http://superset.lab.karpov.courses/r/3398)
 На графике DAU 15 ноября 2022 года наблюдаем всплеск активной аудитории.  
 В разрезе по типу трафика всплеск произошел только у "рекламных" пользователе.  
 График удержания Retention показывает резкое падение на второй день, что говорит о неэффективной рекламе.  
