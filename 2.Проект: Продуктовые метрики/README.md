@@ -8,7 +8,7 @@
 #### Вот что у нас получилось:
 
 [Retention](https://github.com/moseevaevgeniya/KARPOV.COURSES/blob/2f1f873d7868a4b00bfa1c81d4d17a9c710677ac/2.%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8/2023-03-01_22-22-09.png) для двух групп пользователей  
-Также отметим что если рассматривать начало периода, то показатели групп действительно похожи, однако, ретеншон органических пользователей где то с 14 дня примерно в 1.5-2р. выше чем у рекламных.  [Redash](http://redash.lab.karpov.courses/public/dashboards/I4AR7pdf0DfSYP5ZEzdRNgE1tRMclKAFqihTv8aa?org_slug=default)
+Также отметим что если рассматривать начало периода, то показатели групп действительно похожи, однако, ретеншон органических пользователей где то с 14 дня примерно в 1.5-2р. выше чем у рекламных.  [в Redash](http://redash.lab.karpov.courses/public/dashboards/I4AR7pdf0DfSYP5ZEzdRNgE1tRMclKAFqihTv8aa?org_slug=default)
 
 
 ### 2. Описание задачи №2:
