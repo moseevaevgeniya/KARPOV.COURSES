@@ -29,7 +29,7 @@
 
 ### 2. Вот что у нас получилось:
 
-- task_6_1_dag.py  
+- [task_6_1_dag.py](https://github.com/moseevaevgeniya/Project_in_Karpov.courses/blob/6b41964c50d740effeeca5aba723904f84cac519/5.%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8/task6_1_dag__1___1_.py)  
 - task_6_2_dag.py  
 - tg_moseeva_dag.py  
 - В Airflow DAG-и:  
