@@ -23,8 +23,7 @@
 
 ### 2. Вот что у нас получилось:
 
-- Сисема алертов.py
-
+- [Сисема алертов.py](https://github.com/moseevaevgeniya/Project_in_Karpov.courses/blob/4aaf0c126e6eded5f954706e08684ba0a3485a8c/6.%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%20%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9.%20%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%B0%D0%BB%D0%B5%D1%80%D1%82%D0%BE%D0%B2./task_7_alert_dag__1_.py)
 
 ### 3. Автоматизировали систему алертов с помощью Airflow, для этого:  
 
