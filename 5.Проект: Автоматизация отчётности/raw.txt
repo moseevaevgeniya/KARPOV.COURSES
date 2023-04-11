@@ -1,0 +1,50 @@
+[0KRunning with gitlab-runner 14.2.0 (58ba2b95)[0;m
+[0K  on airflow-2.0 cTRhWGhZ[0;m
+section_start:1674763481:prepare_executor[0K[0K[36;1mPreparing the "custom" executor[0;m[0;m
+[0KUsing Custom executor...[0;m
+section_end:1674763481:prepare_executor[0Ksection_start:1674763481:prepare_script[0K[0K[36;1mPreparing environment[0;m[0;m
+=================== I'm in MR ===================
+Cloning into 'repo'...
+/tmp/custom-executor367145468/repo /tmp/custom-executor367145468
+Switched to a new branch 'emoseeva/moseeva_tg_report'
+Branch 'emoseeva/moseeva_tg_report' set up to track remote branch 'emoseeva/moseeva_tg_report' from 'origin'.
+Triggered by e-moseeva-12
+dags folder in MR is exists, check file names.
+args: ['/etc/gitlab-runner/check.py', 'e-moseeva-12', 'dags/e-moseeva-12/task7_1_dag.py']
+names are in database. Continue
+/tmp/custom-executor367145468
+section_end:1674763482:prepare_script[0Ksection_start:1674763482:get_sources[0K[0K[36;1mGetting source from Git repository[0;m[0;m
+=================== I'm in MR ===================
+Cloning into 'repo'...
+/tmp/custom-executor367145468/repo /tmp/custom-executor367145468
+Switched to a new branch 'emoseeva/moseeva_tg_report'
+Branch 'emoseeva/moseeva_tg_report' set up to track remote branch 'emoseeva/moseeva_tg_report' from 'origin'.
+Triggered by e-moseeva-12
+dags folder in MR is exists, check file names.
+args: ['/etc/gitlab-runner/check.py', 'e-moseeva-12', 'dags/e-moseeva-12/task7_1_dag.py']
+names are in database. Continue
+/tmp/custom-executor367145468
+section_end:1674763484:get_sources[0Ksection_start:1674763484:step_script[0K[0K[36;1mExecuting "step_script" stage of the job script[0;m[0;m
+[0;33mWARNING: Starting with version 14.0 the 'build_script' stage will be replaced with 'step_script': https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26426[0;m
+=================== I'm in MR ===================
+Cloning into 'repo'...
+/tmp/custom-executor367145468/repo /tmp/custom-executor367145468
+Switched to a new branch 'emoseeva/moseeva_tg_report'
+Branch 'emoseeva/moseeva_tg_report' set up to track remote branch 'emoseeva/moseeva_tg_report' from 'origin'.
+Triggered by e-moseeva-12
+dags folder in MR is exists, check file names.
+args: ['/etc/gitlab-runner/check.py', 'e-moseeva-12', 'dags/e-moseeva-12/task7_1_dag.py']
+names are in database. Continue
+/tmp/custom-executor367145468
+section_end:1674763486:step_script[0Ksection_start:1674763486:cleanup_file_variables[0K[0K[36;1mCleaning up file based variables[0;m[0;m
+=================== I'm in MR ===================
+Cloning into 'repo'...
+/tmp/custom-executor367145468/repo /tmp/custom-executor367145468
+Switched to a new branch 'emoseeva/moseeva_tg_report'
+Branch 'emoseeva/moseeva_tg_report' set up to track remote branch 'emoseeva/moseeva_tg_report' from 'origin'.
+Triggered by e-moseeva-12
+dags folder in MR is exists, check file names.
+args: ['/etc/gitlab-runner/check.py', 'e-moseeva-12', 'dags/e-moseeva-12/task7_1_dag.py']
+names are in database. Continue
+/tmp/custom-executor367145468
+section_end:1674763488:cleanup_file_variables[0K[32;1mJob succeeded[0;m
